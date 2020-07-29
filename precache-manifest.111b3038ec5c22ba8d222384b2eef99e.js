@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61c8172fdf0b6653f0f95cb82569aaa3",
+    "revision": "c2ba0f80ac20c3526b4569201bb0bc91",
     "url": "/deaddate/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deaddate/static/css/2.19481ff5.chunk.css"
   },
   {
-    "revision": "a179e5dbd42feafde4ec",
+    "revision": "e94012065a1d62cb6ca1",
     "url": "/deaddate/static/css/main.84bec8af.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deaddate/static/js/2.1b2166ae.chunk.js"
   },
   {
-    "revision": "a179e5dbd42feafde4ec",
-    "url": "/deaddate/static/js/main.15131fbb.chunk.js"
+    "revision": "e94012065a1d62cb6ca1",
+    "url": "/deaddate/static/js/main.4fc65b9b.chunk.js"
   },
   {
     "revision": "dfcf3c5ee634fa14f7dd",
