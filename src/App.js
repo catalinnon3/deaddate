@@ -384,7 +384,7 @@ class App extends React.Component {
 											layout='vertical'
 											onClose={() => this.setState({ snackbar: null })}
 										>
-											Необходимо разрешение на получение сообщений
+											Необходимо ваше разрешение на получение сообщений
 										</Snackbar>
 								});
 							}
